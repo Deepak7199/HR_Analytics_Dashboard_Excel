@@ -24,7 +24,7 @@ Employee turnover costs businesses time and resources. This project explores a c
 
 <img width="291" height="205" alt="image" src="https://github.com/user-attachments/assets/dba5108c-971d-4466-92a9-c9affdb72a66" />
 
-<img width="316" height="185" alt="image" src="https://github.com/user-attachments/assets/7b4e9476-c1c9-4127-a103-b1e1a6a8450e" />
+<img width="330" height="190" alt="image" src="https://github.com/user-attachments/assets/acb996a1-6b6e-49ee-b732-d1555bda5ef4" />
 
 <img width="497" height="207" alt="image" src="https://github.com/user-attachments/assets/c159b718-c9e1-45a0-a0f9-8d5ac973febe" />
 
