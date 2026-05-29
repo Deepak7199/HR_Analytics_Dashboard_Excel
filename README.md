@@ -5,6 +5,8 @@ A dynamic and interactive Excel-based HR Analytics Dashboard designed to monitor
 ## Project Overview
 Employee turnover costs businesses time and resources. This project explores a comprehensive HR dataset containing **1,470 employees** to identify the underlying drivers of attrition. By analyzing demographics, job roles, education, and satisfaction metrics, this dashboard equips HR leadership with data-backed insights to improve retention strategies.
 
+<img width="1905" height="760" alt="image" src="https://github.com/user-attachments/assets/44b4e109-0aaf-4d9b-8408-c89d8b1fb844" />
+
 ## Key Insights & Metrics
 * **Total Employees:** 1,470
 * **Attrition Count:** 237 employees have left the organization.
@@ -32,7 +34,11 @@ Employee turnover costs businesses time and resources. This project explores a c
   * **Pivot Tables & Pivot Charts:** For aggregating complex HR attributes.
   * **Formulas & Data DAX/Cleaning:** Custom field logic (`CF_attrition count`, custom grouping bands).
   * **Slicers:** Added interactive filters for *Department*, *Education Field*, and *Gender* to enable dynamic drill-downs.
- 
+
+ <img width="1490" height="391" alt="image" src="https://github.com/user-attachments/assets/6dcd7412-10e2-4bfe-90b4-9ac0bfcbcc46" />
+
+<img width="905" height="561" alt="image" src="https://github.com/user-attachments/assets/67a9004d-6f19-4a81-88d2-465fdeddf613" />
+
 <img width="211" height="217" alt="image" src="https://github.com/user-attachments/assets/f7a3859e-14c4-43f0-b90c-d55c05871118" />
 
 * **Microsoft PowerPoint:**
