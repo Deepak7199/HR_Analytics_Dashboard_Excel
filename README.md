@@ -10,8 +10,8 @@ Employee turnover costs businesses time and resources. This project explores a c
 ## Key Insights & Metrics
 * **Total Employees:** 1,470
 * **Attrition Count:** 237 employees have left the organization.
-* **Overall Attrition Rate:** ~16.1%
-* **Average Employee Age:** 36.9 years
+* **Overall Attrition Rate:** 16.12%
+* **Average Employee Age:** 37 years (36.9 unrounded)
 * **Average Job Satisfaction Rating:** 2.63 / 4
 
 <img width="1013" height="83" alt="image" src="https://github.com/user-attachments/assets/2e94a6dc-767f-4780-833c-499bc3882c9f" />
